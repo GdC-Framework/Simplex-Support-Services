@@ -31,23 +31,19 @@
 		</Key>
 		<Key ID="STR_SSS_Main_Setting_DirectActionRequirement_DisplayName">
 			<English>Require access item/condition for direct action</English>
-			<French>Restreindre à une dotation/une condition spécifique</French>
-			<!-- qu'est-ce que la direct action ? -->
+			<French>Restreindre l'interaction de proximité</French>
 		</Key>
 		<Key ID="STR_SSS_Main_Setting_DirectActionRequirement_Description">
 			<English>When disabled, anyone can interact directly with transports or logistics booths</English>
-			<French>Si désactivé, tout le monde est capable d'interagir directement avec les transports ou les containers de logistique</French>
-			<!-- qu'est-ce que la direct action ? -->
+			<French>L'interaction de proximité ne peut se faire qu'avec un objet/condition spécifique.</French>
 		</Key>
 		<Key ID="STR_SSS_Main_Setting_RemoveSupportOnVehicleDeletion_DisplayName">
 			<English>Remove support on vehicle deletion</English>
-			<French>Retire le support si le véhicule est supprimé</French>
-			<!-- conflit entre le titre et la description -->
+			<French>Pas de réapparition pour les véhicules détruits</French>
 		</Key>
 		<Key ID="STR_SSS_Main_Setting_RemoveSupportOnVehicleDeletion_Description">
 			<English>If disabled, any physical support vehicles capable of respawning will simply respawn</English>
-			<French>Si désactivé, tout véhicule de support capable de réapparaître le fera.</French>
-			<!-- conflit entre le titre et la description -->
+			<French>Les véhicules détruits ne réapparaîtront pas même s'ils sont configurés pour.</French>
 		</Key>
 		<Key ID="STR_SSS_Main_Setting_DeleteVehicleOnEntityRemoval_DisplayName">
 			<English>Delete vehicle on entity removal</English>
